@@ -2,7 +2,7 @@
 title: "Statistic 1: Data Visualisation and Simple Linear Regression"
 author: "Zahratu Shabrina"
 date: "21 August 2019"
-output: html_document
+output: github_document
 runtime: shiny
 ---
 
